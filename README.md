@@ -25,9 +25,9 @@ Result Agent
 
 ## Powered by Groq LLMs + LangChain
 
-Interactive Flask Web Interface
+Interactive Gradio Web Interface
 
-Speaking avatar with talking animation
+Speaking avatar
 
 User Topic
 
