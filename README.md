@@ -30,18 +30,31 @@ Interactive Flask Web Interface
 Speaking avatar with talking animation
 
 User Topic
+
    │
+   
    ▼
+   
 Debate Engine
+
    │
+   
    ├── Pro Agent (LLM)
+   
    │
+   
    ├── Con Agent (LLM)
+   
    │
+   
    ▼
+   
 Judge Agent (LLM)
+
    │
+   
    ▼
+   
 Winner Decision
 
 ## Tech Stack : 
